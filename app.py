@@ -11,7 +11,7 @@ from proyectos import NOMBRE, UNIVERSIDAD, TEMAS, PROYECTOS
 
 BASE_DIR = Path(__file__).parent
 CARPETA_IMAGENES = BASE_DIR / "imagenes"
-RUTA_LOGO = CARPETA_IMAGENES / "logo-jhonatan.png"
+RUTA_LOGO = CARPETA_IMAGENES / "logo-EM.png"
 PROPORCION = 16 / 9
 COLUMNAS = 2
 
@@ -170,7 +170,7 @@ with st.container():
         else:
             st.markdown("<div class='sin-imagen'>JP</div>", unsafe_allow_html=True)
     with text_col:
-        st.markdown('<p class="brand-name">Jhonatan Perea · Data & Machine Learning</p>', unsafe_allow_html=True)
+        st.markdown('<p class="brand-name">Edwar Mosquera · Data & Machine Learning</p>', unsafe_allow_html=True)
         st.title("Convirtiendo datos en soluciones inteligentes.")
         st.markdown(
             '<p class="hero-copy">Exploro datos, desarrollo experimentos de aprendizaje automático '
