@@ -1,4 +1,0 @@
-Pon aquí las imágenes de tus proyectos (png o jpg).
-Luego escribe el nombre del archivo en el campo "imagen" de proyectos.py.
-Ejemplo: "imagen": "series_tiempo.png"
-Recomendado: 1200x675 px (proporción 16:9).
