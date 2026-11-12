@@ -1,6 +1,6 @@
 
 
-NOMBRE = "Jhonatan Perea "
+NOMBRE = "Edwar Ferney Mosquera"
 UNIVERSIDAD = "Institución Universitaria Pascual Bravo"
 
 TEMAS = [
@@ -23,8 +23,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "NumPy", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Similitud-con-Vectores-y-Matrices",
-        "demo": "https://similitud-con-vectores-y-matrices-jep.streamlit.app",
+        "repo": "",
+        "demo": "https://fruitappts-sdvw4bcvycxyxozkvyprtm.streamlit.app/",
     },
     {
         "titulo": "Descenso de Gradiente Interactivo",
@@ -36,21 +36,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Matplotlib", "NumPy", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Calculo-Aplicado",
-        "demo": "https://calculo-aplicado-je.streamlit.app",
-    },
-    {
-        "titulo": "Eficiencia Algorítmica con Big-O y NumPy",
-        "tema": "Lógica algorítmica",
-        "desc": (
-            "Proyecto diseñado para comprender y contrastar la eficiencia algorítmica, "
-            "la complejidad computacional y las ventajas del procesamiento vectorizado "
-            "frente a bucles tradicionales."
-        ),
-        "imagen": "",
-        "tags": ["Python", "NumPy", "Algoritmos"],
-        "repo": "https://github.com/YovngJE/Eficiencia-Algor-tmica-con-Big-O-y-NumPy",
-        "demo": "https://eficiencia-algor-tmica-con-big-o-y-numpy-jep.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/Parament",
+        "demo": "https://paramet-bp8pei2akphhcvg2pypajh.streamlit.app/",
     },
     {
         "titulo": "Limpieza y Estructuración de Datos",
@@ -62,8 +49,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Pandas", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Limpieza-y-Estructuraci-n-de-Datos",
-        "demo": "https://limpieza-y-estructuraci-n-de-datos-jep.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/Catagoryes",
+        "demo": "https://catagoryes-briwpziazxmtpmwmssyegq.streamlit.app/",
     },
     {
         "titulo": "Nivel de Ríos y Quebradas (CORNARE)",
@@ -75,8 +62,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Pandas", "Matplotlib", "Streamlit"],
-        "repo": "https://github.com/yovngje/portafolio_pa-1/blob/8-10PM/app.py",
-        "demo": "https://portafoliopa-1-ag2nvgftwcxzlaj7ekeaqj.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/CORNARE-P1",
+        "demo": "https://cornare-p1-ltkxce6oyxuxbpdabu6ogw.streamlit.app",
     },
     {
         "titulo": "Regresión: Conceptos Clave",
@@ -88,8 +75,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Scikit-Learn", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Regresi-n-Conceptos-Clave",
-        "demo": "https://regresi-n-conceptos-clave-jep.streamlit.app",
+        "repo": "https://conceptosp1-jltwnx8hrc3nmsguzcfclc.streamlit.app",
+        "demo": "https://conceptosp1-jltwnx8hrc3nmsguzcfclc.streamlit.app",
     },
     {
         "titulo": "Series de Tiempo: Sensor IoT",
@@ -101,8 +88,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Statsmodels", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Series-de-Tiempo-Sensor-IoT",
-        "demo": "https://series-de-tiempo-sensor-iot-ljcw2rsivw3o6tai6ohsnj.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/PARELALISMO-NOCHE",
+        "demo": "https://parelalismo-noche-6qekytanjqwrsqg3hdipht.streamlit.app",
     },
     {
         "titulo": "Predictor de Calidad del Aire",
@@ -114,8 +101,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Scikit-Learn", "Pandas", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Predictor-de-Calidad-del-Aire",
-        "demo": "https://predictor-de-calidad-del-aire-jep.streamlit.app",
+        "repo": "https://pronosticocornarep1-cw7cwkzfhjcghdyxzbig6j.streamlit.app/",
+        "demo": "https://pronosticocornarep1-cw7cwkzfhjcghdyxzbig6j.streamlit.app",
     },
     {
         "titulo": "Sensación Térmica con IoT",
@@ -127,8 +114,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "IoT", "Scikit-Learn", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Sensaci-n-T-rmica-con-IoT",
-        "demo": "https://sensaci-n-t-rmica-con-iot-jep.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/MetricasSerie",
+        "demo": "https://metricasserie-gcpjvheszzobimvpqwutla.streamlit.app",
     },
     {
         "titulo": "Clasificación con Regresión Logística",
@@ -140,8 +127,8 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Scikit-Learn", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Clasificaci-n-con-Regresi-n-Log-stica",
-        "demo": "https://clasificaci-n-con-regresi-n-log-stica-mfk826ayzacj2ouhixhwxe.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/pruevaclase12",
+        "demo": "https://pruevaclase12-dwyjlaxxbhwlinnu4visn9.streamlit.app/",
     },
     {
         "titulo": "Clasificación KNN con Suelos (AGROSAVIA)",
@@ -153,7 +140,7 @@ PROYECTOS = [
         ),
         "imagen": "",
         "tags": ["Python", "Scikit-Learn", "Streamlit"],
-        "repo": "https://github.com/YovngJE/Clasificaci-n-KNN-con-Suelos-AGROSAVIA-",
-        "demo": "https://clasificacion-suelos-je.streamlit.app",
+        "repo": "https://github.com/edwarmosquera303-oss/pruevaclase12",
+        "demo": "https://knn-noche-tqokgn2l36vjc4pbp98nwo.streamlit.app",
     },
 ]
